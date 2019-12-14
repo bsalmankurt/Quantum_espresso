@@ -1,5 +1,5 @@
 ## Quantum Espresso 
-[deneme](https://github.com/bsalmankurt/Quantum_espresso/deneme/)
+
 Quantum Espresso programının kullanımı için bilgiler içerecek ve geliştirilecektir. 
 
 
