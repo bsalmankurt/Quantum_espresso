@@ -1,6 +1,6 @@
 ## Quantum Espresso 
 
-Quantum Espresso programının kullanımı için bilgiler içerecek ve geliştirilecektir. 
+Siesta programının kullanımı için bilgiler içerecek ve geliştirilecektir. 
 
 
 You can use the [editor on GitHub](https://github.com/bsalmankurt/Quantum_espresso/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
